@@ -6,7 +6,7 @@ import { Collapse } from "react-bootstrap";
 const ModalBombs = (props) => {
   // API Abbreviation
   const apiModalBombs =
-    "http://api.scryfall.com/cards/search?q=is%3Adouble-faced+set%3Astx&unique=cards&as=grid&order=name";
+    "https://api.scryfall.com/cards/search?q=is%3Adouble-faced+set%3Astx&unique=cards&as=grid&order=name";
   
   // Setting State
   const [cards, setCards] = useState([]);

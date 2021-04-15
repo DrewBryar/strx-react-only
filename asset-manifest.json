@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/strx-react-only/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/strx-react-only/static/js/main.7bc8705c.chunk.js",
-    "main.js.map": "/strx-react-only/static/js/main.7bc8705c.chunk.js.map",
-    "runtime-main.js": "/strx-react-only/static/js/runtime-main.a93d7f4a.js",
-    "runtime-main.js.map": "/strx-react-only/static/js/runtime-main.a93d7f4a.js.map",
-    "static/js/2.8a5d4b81.chunk.js": "/strx-react-only/static/js/2.8a5d4b81.chunk.js",
-    "static/js/2.8a5d4b81.chunk.js.map": "/strx-react-only/static/js/2.8a5d4b81.chunk.js.map",
-    "static/js/3.f80f7fd3.chunk.js": "/strx-react-only/static/js/3.f80f7fd3.chunk.js",
-    "static/js/3.f80f7fd3.chunk.js.map": "/strx-react-only/static/js/3.f80f7fd3.chunk.js.map",
+    "main.css": "/strx-react-only/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/strx-react-only/static/js/main.f78cca7b.chunk.js",
+    "main.js.map": "/strx-react-only/static/js/main.f78cca7b.chunk.js.map",
+    "runtime-main.js": "/strx-react-only/static/js/runtime-main.d26e3167.js",
+    "runtime-main.js.map": "/strx-react-only/static/js/runtime-main.d26e3167.js.map",
+    "static/css/2.379a8125.chunk.css": "/strx-react-only/static/css/2.379a8125.chunk.css",
+    "static/js/2.539b4c5c.chunk.js": "/strx-react-only/static/js/2.539b4c5c.chunk.js",
+    "static/js/2.539b4c5c.chunk.js.map": "/strx-react-only/static/js/2.539b4c5c.chunk.js.map",
+    "static/js/3.a64bb0fa.chunk.js": "/strx-react-only/static/js/3.a64bb0fa.chunk.js",
+    "static/js/3.a64bb0fa.chunk.js.map": "/strx-react-only/static/js/3.a64bb0fa.chunk.js.map",
     "index.html": "/strx-react-only/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/strx-react-only/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.8a5d4b81.chunk.js.LICENSE.txt": "/strx-react-only/static/js/2.8a5d4b81.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/strx-react-only/static/media/logo.6ce24c58.svg"
+    "static/css/2.379a8125.chunk.css.map": "/strx-react-only/static/css/2.379a8125.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/strx-react-only/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.539b4c5c.chunk.js.LICENSE.txt": "/strx-react-only/static/js/2.539b4c5c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a93d7f4a.js",
-    "static/js/2.8a5d4b81.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.7bc8705c.chunk.js"
+    "static/js/runtime-main.d26e3167.js",
+    "static/css/2.379a8125.chunk.css",
+    "static/js/2.539b4c5c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.f78cca7b.chunk.js"
   ]
 }
